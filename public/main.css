@@ -1,0 +1,24 @@
+#app-root {
+  padding: 10px 50px;
+}
+
+.app {
+  border: solid 1px green;
+}
+
+.header {
+  height: 100px;
+  background-color: limegreen;
+}
+
+.body {
+  margin-top: 10px;
+  height: 400px;
+  background-color: grey;
+}
+
+.footer {
+  margin-top: 10px;
+  height: 100px;
+  background-color: blueviolet;
+}
